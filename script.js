@@ -86,6 +86,7 @@ function kep(selectCity, demoSpan, imageDiv) {
     img.alt = selectedValue;
     img.title = selectedValue;
     //console.log(img);
+    //ablaktorloSzimulatorBIciklizoViziMEdveBarnaMigransgit ad
 
     // végül cseréljük ki az imageDiv tartalmát az új képre
 
